@@ -23,7 +23,7 @@ Hi {}, my name is {}! Iâ€™m a Group Management Bot, created and maintained by [ð
 
 Join my [update channel](https://t.me/EywasUpdates) & [support group](https://t.me/EywasSC), to stay in touch with my new updates, to ask your doubts about the bot & to report the bugs.
 
-Press /help to get the list of commands.
+Tap /help to get the list of commands.
 
 """
 
