@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hi {}, my name is {}! I’m a Group Management Bot, created and maintained by [𖤍 Λℓσηє 𖤍](tg://user?id={}).
+Hi {}, my name is {}! I’m a Group Manager Bot, created and maintained by [𖤍 Λℓσηє 𖤍](tg://user?id={}).
 
 Join my [update channel](https://t.me/EywasUpdates) & [support group](https://t.me/EywasSC), to stay in touch with my new updates, to ask your doubts about the bot & to report the bugs.
 
@@ -376,7 +376,7 @@ def donate(bot: Bot, update: Update):
 
         if OWNER_ID != 254318997 and DONATION_LINK:
             update.effective_message.reply_text("If you want, just say a thanks to him, "
-                                                "[here]({})".format(DONATION_LINK),
+                                                "[here](t.me/AlexaANBot),
                                                 parse_mode=ParseMode.MARKDOWN)
 
     else:
