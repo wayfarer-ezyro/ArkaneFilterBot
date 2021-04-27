@@ -21,7 +21,7 @@ PM_START_TEXT = """
 
 Hi {}, my name is {}! I’m a Group Management Bot, created and maintained by [𖤍 Λℓσηє 𖤍](tg://user?id={}).
 
-Join my [update channel](https://t.me/EywasUpdates) & [support group](https://t.me/EywasSC), to stay in touch with my new updates, to ask your doubts about the me & to report the bugs.
+Join my [update channel](https://t.me/EywasUpdates) & [support group](https://t.me/EywasSC), to stay in touch with my new updates, to ask your doubts about me & to report the bugs.
 
 Tap /help to get the list of commands.
 
