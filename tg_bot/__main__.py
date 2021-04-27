@@ -21,7 +21,7 @@ PM_START_TEXT = """
 
 Hi {}, my name is {}! I’m a Group Management Bot, created and maintained by [𖤍 Λℓσηє 𖤍](tg://user?id={}).
 
-Join my [update channel](https://t.me/EywasUpdates) & [support group](https://t.me/EywasSC), to stay in touch with my new updates, to ask your doubts about the bot & to report the bugs.
+Join my [update channel](https://t.me/EywasUpdates) & [support group](https://t.me/EywasSC), to stay in touch with my new updates, to ask your doubts about the me & to report the bugs.
 
 Tap /help to get the list of commands.
 
@@ -145,7 +145,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                     [[InlineKeyboardButton(text="🦋 Add me to your group 🦋", url="t.me/{}?startgroup=true".format(bot.username)) ]]))
 
     else:
-        update.effective_message.reply_text("still alive...")
+        update.effective_message.reply_text("Heya :) PM me if you have any questions on how to use me!")
 
 
 # for test purposes
