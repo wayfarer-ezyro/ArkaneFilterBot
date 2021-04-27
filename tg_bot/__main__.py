@@ -145,7 +145,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                     [[InlineKeyboardButton(text="🦋 Add me to your group 🦋", url="t.me/{}?startgroup=true".format(bot.username)) ]]))
 
     else:
-        update.effective_message.reply_text("Heya :) PM me if you have any questions on how to use me!")
+        update.effective_message.reply_text("I'm alive :3")
 
 
 # for test purposes
