@@ -90,8 +90,7 @@ def ban(bot: Bot, update: Update, args: List[str]) -> str:
     try:
         chat.kick_member(user_id)
         keyboard = []
-        reply = "Another one bites the dust...!
-Banned {}.".format(mention_html(member.user.id, member.user.first_name))
+        reply = "Another one bites the dust...! Banned {}.".format(mention_html(member.user.id, member.user.first_name))
         message.reply_text(reply, reply_markup=keyboard, parse_mode=ParseMode.HTML)
         return log
 
@@ -100,8 +99,7 @@ Banned {}.".format(mention_html(member.user.id, member.user.first_name))
             chat_id = update.effective_chat.id
             message = update.effective_message
             # Do not reply
-            reply = "Another one bites the dust...!
-Banned {}.".format(mention_html(member.user.id, member.user.first_name))
+            reply = "Another one bites the dust...! Banned {}.".format(mention_html(member.user.id, member.user.first_name))
             bot.send_message(chat_id, reply, reply_markup=keyboard, parse_mode=ParseMode.HTML)
 #           message.reply_text('Banned!', quote=False)
             return log
