@@ -15,10 +15,6 @@ announcements.
 
 Alternatively, [find me on telegram](https://telegram.dog/AidanNia)! (Keep all support questions in the support chat, where more people can help you.)
 
-To deploy me on heroku, use below button:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wayfarer-ezyro/tgbot)
-
 ## Starting the bot.
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
