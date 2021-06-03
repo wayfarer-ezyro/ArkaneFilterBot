@@ -21,7 +21,7 @@ PM_START_TEXT = """
 
 Hi {}, my name is {}! I’m a Group Management Bot, created and maintained by [𖤍 Λℓσηє 𖤍](tg://user?id={}).
 
-Join my [update channel](https://t.me/NeviNine) & [support group](https://t.me/NeviNineSupport), to stay in touch with my new updates, to ask your doubts about me & to report the bugs.
+Join my [update channel](https://t.me/MarineBots) & [support chat](https://t.me/MarineChats), to stay in touch with my new updates, to ask your doubts about me & to report the bugs.
 
 Hit /help to get the list of commands.
 
