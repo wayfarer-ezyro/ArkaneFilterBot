@@ -24,11 +24,11 @@ Hi {}, my name is {}! I’m a Group Management Bot, created and maintained by [�
 Join my [update channel](https://t.me/MarineBots) & [support chat](https://t.me/MarineChats), to stay in touch with my new updates, to ask your doubts about me & to report the bugs.
 
 Hit /help to get the list of commands.
-
+[ ](https://telegra.ph/file/00c1d4339bfc0865f948f.jpg)
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*[.](https://telegra.ph/Σνα-20-06-13)
+Hey there! My name is *{}*.[ ](https://telegra.ph/file/00c1d4339bfc0865f948f.jpg)
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
