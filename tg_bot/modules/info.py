@@ -1,7 +1,6 @@
 import html
 import json
 import os
-import psutil
 import random
 import time
 import datetime
