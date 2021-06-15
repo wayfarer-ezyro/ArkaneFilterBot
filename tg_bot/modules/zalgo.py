@@ -6,7 +6,6 @@ import random
 from random import randint
 from datetime import datetime
 from typing import Optional, List
-import pyowm
 import time
 import requests
 from telegram import Message, Chat, Update, Bot, MessageEntity
